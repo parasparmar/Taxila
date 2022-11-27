@@ -1,0 +1,2 @@
+﻿1 - Change directory to : cd B:\Documents\Visual Studio 2022\Projects\Taxila\Taxila\Library\DB\
+2 - Run this command: dotnet linq2db scaffold -i database.json -c "Data Source=B:\Documents\Visual Studio 2022\Projects\Taxila\Taxila\Library\DB\metadata.db"

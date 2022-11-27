@@ -1,0 +1,9 @@
+{
+  "general": {
+    "provider": "SQLite",
+    "connection": "Data Source=B:\\Documents\\Visual Studio 2022\\Projects\\Taxila\\Taxila\\Library\\DB\\metadata.db",
+    "output": "B:\\Documents\\Visual Studio 2022\\Projects\\Taxila\\Taxila\\Library\\Models",
+    "overwrite": true
+  }
+}
+
